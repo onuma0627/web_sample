@@ -1,3 +1,2 @@
 # sample web page
-https://Onuma-Kento.github.io/web_sample
-https://
+https://onuma0627.github.io/web_sample
